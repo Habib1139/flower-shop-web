@@ -82,3 +82,19 @@ header{
    
    }
 /* =============Featured part End=============== */
+/*------------- Service part start --------------*/
+.service-section{
+    margin: 100px 120px;
+    background-color: #ECECEC;
+    
+}
+.our-servise{
+    padding: 80px 120px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+   
+  
+}
+
+/*------------- Service part end------------------ */
