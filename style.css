@@ -26,12 +26,13 @@ header{
     
 }
 .btn-shop{
-    margin-top: 10px;
+    
     padding: 10px 20px;
     border: none;
     border-radius: 10px;
     color: #fff;
     background-color: #E55473;
+
 }
 /* =============header part end=============== */
    
@@ -82,6 +83,7 @@ header{
    
    }
 /* =============Featured part End=============== */
+
 /*------------- Service part start --------------*/
 .service-section{
     margin: 100px 120px;
@@ -98,3 +100,25 @@ header{
 }
 
 /*------------- Service part end------------------ */
+
+/*-------------------- hot deal start ---------------------*/
+.hot-deal{
+    width: 100%;
+    background-color: #FFD4CF;
+    margin-bottom: 100px;
+}
+.offer-part{
+    padding: 80px 120px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.offer-percent{
+    width: 500px;
+    text-align: center;
+}
+.offer-flower img{
+    width: 300px;
+    height: 300px;
+}
+/*-------------------- hot deal end ---------------------*/
