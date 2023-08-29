@@ -10,7 +10,7 @@
 /* =============header part start=============== */
 header{
     width: 100%;
-   height: 800px;
+    height: 800px;
 }
 .hero-part{
     
@@ -91,7 +91,7 @@ header{
     
 }
 .our-servise{
-    padding: 80px 120px;
+    padding: 50px 120px;
     display: flex;
     justify-content: space-around;
     text-align: center;
@@ -108,7 +108,7 @@ header{
     margin-bottom: 100px;
 }
 .offer-part{
-    padding: 80px 120px;
+    padding: 50px 120px;
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -122,3 +122,47 @@ header{
     height: 300px;
 }
 /*-------------------- hot deal end ---------------------*/
+/* ---------------------instagram part start------------------- */
+.instagram{
+   
+    text-align: center;
+   
+}
+.instagram-product{
+    padding: 0 120px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 100px;
+}
+.instagram-product img{
+    width: 200px;
+    height: 200px;
+    margin-right: 10px;
+}
+/* ---------------------instagram part end------------------- */
+/*------------------ latest deal start -----------------*/
+.latest-deal{
+   padding: 0 120px;
+   position: relative;
+   
+}
+.latest-text{
+    position: absolute;
+    top: 100px;
+    left: 400px;
+   
+}
+.latest-deal img{
+    width: 100%;
+   
+}
+
+.latest-text input{
+    width: 300px;
+    height: 35px;
+    padding-left: 10px;
+    border: none;
+    border-radius: 10px;
+}
+/*------------------ latest deal end -----------------*/
